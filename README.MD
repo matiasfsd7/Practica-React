@@ -24,7 +24,7 @@ https://github.com/matiasfsd7/Practica-React
 
 ```
 Matias Nicolas Ortega
-Student Rolling Code School
+Student RollingCode School
 ```
 
 ![Rolling](https://campus.rollingcodeschool.com/pluginfile.php/44536/course/summary/Portada%20Full%20stack%20campus.png)
