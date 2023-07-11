@@ -1,12 +1,14 @@
 import { Children } from "react";
+import { Container } from "react-bootstrap";
 import "./App.css";
 import Titulos from "./Components/titulos";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (
-    <>
+    <Container>
       <Titulos />
-    </>
+    </Container>
   );
 }
 // function Bienvenido(props) {
