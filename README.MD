@@ -1,6 +1,6 @@
 # Mi README de practica de React ❄
 
-Empece mi propio **README** para hacer en este repositorio.
+Empece mi propio **README** para hacer en este repositorio de nuestro contador.
 
 ## Herramientas Utilizadas
 
@@ -24,9 +24,9 @@ https://github.com/matiasfsd7/Practica-React
 
 ```
 Matias Nicolas Ortega
-Student Rolling Code School
+Student RollingCode School
 ```
 
-![Rolling](https://campus.rollingcodeschool.com/pluginfile.php/44536/course/summary/Portada%20Full%20stack%20campus.png)
+![Rolling](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZGeBcy_QxHvD3Iqi5hm_qvZA_QdYBKbRjHyGJRAdd7EtW1FziSbMIVh-q0JKNNU9-jg&usqp=CAU)
 
 > **Copyright (c)** 2023-2024
