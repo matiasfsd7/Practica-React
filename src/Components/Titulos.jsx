@@ -1,5 +1,11 @@
-const Titulos = () => {
+const Titulos = ({ subtitulo, estadoNuevo }) => {
   // Aqui vamos a cargar toda la logica
+  // if (condition) {
+
+  // } else {
+
+  // }
+
   return (
     //aqui tambien se puede escribir logica
     <section>
@@ -8,7 +14,10 @@ const Titulos = () => {
         {" "}
         Proyecto contador con react
       </h1>
-      <h2 className="display-6 text-center text-dark"> Este es un subtitulo</h2>
+      <h2 className="display-6 text-center text-dark">
+        {subtitulo}, estado
+        {estadoNuevo ? " habilitado" : " deshabilitado"}{" "}
+      </h2>
       <hr />
     </section>
   );
